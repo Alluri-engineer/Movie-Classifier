@@ -25,8 +25,8 @@
 
 ```bash
 # Clone the repository
-git clone <your-repo-url>
-cd Image-Prediction
+git clone https://github.com/Alluri-engineer/Movie-Classifier.git
+cd Movie-Classifier
 
 # Start with Docker Compose
 ./scripts/compose.sh up
